@@ -3,7 +3,7 @@ package anotherpackage;
 public class DummyClass {
 
 	public void print() {
-		System.out.println("hello");
+		System.out.println("hello github");
 	}
 
 	public void fun1() {
