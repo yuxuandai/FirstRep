@@ -17,4 +17,8 @@ public class DummyClass {
 	public void funnewidea1() {
 		System.out.println("function 3");
 	}
+
+	public void funnewidea2() {
+		System.out.println("function 4");
+	}
 }
