@@ -7,7 +7,7 @@ public class DummyClass {
 	}
 
 	public void fun1() {
-		System.out.println("function 1");
+		System.out.println("function 11");
 	}
 
 	public void fun2() {
