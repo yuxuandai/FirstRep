@@ -1,4 +1,4 @@
-package printproject;
+package mainpackage;
 
 public class Main {
 
