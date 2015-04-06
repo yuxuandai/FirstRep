@@ -21,4 +21,8 @@ public class DummyClass {
 	public void funnewidea2() {
 		System.out.println("function 4");
 	}
+	
+	public void funlocal() {
+		System.out.println("function local branch");
+	}
 }
