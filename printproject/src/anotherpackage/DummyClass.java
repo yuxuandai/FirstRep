@@ -10,4 +10,7 @@ public class DummyClass {
 		System.out.println("function 1");
 	}
 
+	public void fun2() {
+		System.out.println("function 2");
+	}
 }
